@@ -2,7 +2,9 @@
 
 Herzlichen Glückwunsch, du hast soeben dein erstes Programm ausgeführt!
 
-Was bei der Ausführung passiert? Du hast der _Funktion_ (ja, die gibt es nicht nur in der Mathematik) einen sogenannten _Paramerer_ übergeben. Genauer handelt es sich bei dem Parameter um einen _String_. An dieser Stelle wollen wir uns nicht mit Datentypen befassen. Falls du  jedoch mehr darüber erfahren möchtest, kannst du dies über diese Seite tun: https://www.sivakids.de/python-datentypen/#:~:text=Python%20Datentypen%20sind%20somit%20die,Variablen%2C%20Listen%20oder%20Tupel%20sein.
+Was bei der Ausführung passiert? Du hast der _Funktion_ (ja, die gibt es nicht nur in der Mathematik) einen sogenannten _Paramerer_ übergeben. Genauer handelt es sich bei dem Parameter um einen _String_. An dieser Stelle wollen wir uns nicht mit Datentypen befassen. Falls du  jedoch mehr darüber erfahren möchtest, kannst du dies über diese Seite tun:
+ 
+https://www.sivakids.de/python-datentypen/#:~:text=Python%20Datentypen%20sind%20somit%20die,Variablen%2C%20Listen%20oder%20Tupel%20sein.
 
 ## Aufgabe 
 1) Versuche mehrere print-Befehle auf einmal in der IDLE auszuführen. Was fällt dir auf?
