@@ -4,11 +4,11 @@ Hier findest du alle Themen, die wir in der Programmier-AG behandelt haben. Dabe
 
 Viel Spaß!
 
-##Was du brauchst:
+## Was du brauchst:
 + Stift 
 + Papier
 + eventuell einen USB Stick (2 GB ausreichend)
 
-##Themen 
+## Themen 
 
-[Wie richte ich Python ein?](./Themen/Einrichtung/Wie%20ich%20Pyhton%20einrichte)
+[Wie richte ich Python ein?](./Themen/Einrichtung/Wie%20ich%20Pyhton%20einrichte.md)
