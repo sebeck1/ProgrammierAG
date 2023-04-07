@@ -15,21 +15,24 @@ Wie wir gelernt haben, können wir mit dem print-Befehl etwas auf die Konsole au
 print("Hallo Max")
 # Die Ausgabe ist "Hallo Max"
 ```
-Wir können aber auch "Max" als _Variable_ abspeichern. Man kann sich die Variable quasi als eine Art Schubladenkasten vorstellen, in dem etwas, hier in dem Fall der Name Max, abgeleckt wird. Das sieht dann wie folgt aus:
+Wir können aber auch "Max" als _Variable_ abspeichern. Man kann sich  Variable quasi als eine Art Schubladenkasten vorstellen, in dem etwas, hier in dem Fall der Name Max, abgeleckt wird. Das sieht dann wie folgt aus:
 ```python
 name = "Max"
 
 print("Hallo " + name)
+# Die Ausgabe ist "Hallo Max"
 ```
-### ZwiscchenAufgabe
+### ZwischenAufgabe
 1) Mache dir Gedanken darüber, was der Vorteil von Variablen sein könnte.
 
 Der Vorteil einer solchen Variable ist, dass wir nicht nur "Max" sondern alle möglichen Werte in dieser Variable ablegen können. Dies zeigt das folgende Beispiel:
 
 ```python
 name = input("Wie heißt du? ")
+# Es wurde "Maria" eigegeben
 
 print("Hallo " + name)
+# Die Ausgabe ist "Hallo Maria"
 
 ```
 
