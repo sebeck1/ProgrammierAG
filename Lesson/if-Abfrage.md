@@ -1,6 +1,6 @@
 "If" ist erstmal ein englisches Wort und bedeutet "wenn". Das Wort "wenn" nutzen wir, um Bedingunen und sich daraus resultierende Folgen auszudrücken.
 
-Beispiel? Wenn es morgen regnet, gehe ich nicht spazieren. Hier sieht man ganz deutlich: Ob ich spazieren gehe ist abhängig von der Bedingung, ob es morgen regnet. Und man sieht nocht mehr. Sollte das Wetter uns nämlich wohl gesonnen sein und strahlender Sonnenschein herrschen (oder es  zumindestens trocken sein und nicht regnen), dann werden wir spazieren gehen. In der Programmiersprache könnten wir dieses Beispiel dann formulieren mit:
+Beispiel gefällig? Wenn es morgen regnet, gehe ich nicht spazieren. Hier sieht man ganz deutlich: Ob ich spazieren gehe ist abhängig von der Bedingung, ob es morgen regnet. Und man sieht nocht mehr. Sollte das Wetter uns nämlich wohl gesonnen sein und strahlender Sonnenschein herrschen (oder es  zumindestens trocken sein und nicht regnen), dann werden wir spazieren gehen. In der Programmiersprache könnten wir dieses Beispiel dann formulieren mit:
 ```python
 wetter = "regen"
 if wetter == "regen":
