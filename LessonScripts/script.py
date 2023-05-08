@@ -1,24 +1,18 @@
-#Program 1
-wetter = "regen"
-if wetter == "regen":
-    print("Ich gehe nicht spazieren")
-elif wetter == "sonne":
-    print("Ich gehe spazieren und nehme meine Sonnenbrille mit.")
-else:
-    print("Ich gehe spazieren")
+import random
+import string
 
-#Program 2
-name = input("Hallo, wie heißt du? ")
+die_adjektive = ["schläfrig", "lahm", "stinkend", "fett", "rot", "orange", "gelb", "grün", "blau", "lila", "flauschig", "weiß", "stolz", "tapfer"]
 
-antwort = print("Hallo "+name+", schön dich kennen zu lernen.")
+die_nomen = ["Apfel", "Dinosaurier", "Kugel", "Taoster", "Ziege", "Drachen", "Hammer", "Ente", "Panda"]
 
-antwort =  input("Hast du bereits Erfahrung im Programmieren gemacht? ")
+print("Willkommen im Passwort-Generator!")
 
-if antwort == "Ja":
-    print("Dann habe ich es ja mit einem richtigen Experten zu tun!")
-elif antwort == "Nein":
-    print("Was ja noch nicht ist, kann ja noch werden")
-else:
-    print("Hmmm, deine Antwort konnte ich nicht vertehen. Aber ich habe noch weitere Fragen...")
+adjektiv = random.choice(die_adjektive)
+nomen = random.choice(die_nomen)
+zahl = random.randrange(0,100)
+sonderz = random.choice(string.punctuation)
 
-#...
+passwort = adjektiv + nomen + str(zahl) + sonderz
+
+print("Das neue Password ist: %s" % passwort)
+

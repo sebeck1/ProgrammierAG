@@ -1,4 +1,5 @@
-# if-Abfrage
+# Passwort-Generator
 
-In der heutigen Stunde beschäftigen wir uns mit der if-Abfrage. Eine if-Abfrage ist in der Programmiersprache ein essentielles Werkzeug, um verschiedene Codeblöcke abhängig von gegebenen Bedingungn zu trennen.
-Was man aber genau unter einer if-Abfrage versteht und wie man sie anwendet, findest du [hier](./Lesson/if-Abfrage.md)
+Heute lernen wir einen Passwort-Generator zu erstellen. Das Programm trifft aus Gruppen von Adjektiven, Nomen, Zahlen und Satzzeichen eine zufällige Auwahl und kombiniert daraus Passwörter. Deine Passwörter werden somit eine Form haben, die so etwa ausschaut, wie "flauschigerapfel14)" oder auch "stinkendeziege&".
+
+[Passwort Generator](./Lesson/passwort_generator.md)
