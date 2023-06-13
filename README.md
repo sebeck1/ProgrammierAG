@@ -1,5 +1,5 @@
-# Passwort-Generator
+# Hang-Man
 
-Heute lernen wir einen Passwort-Generator zu erstellen. Das Programm trifft aus Gruppen von Adjektiven, Nomen, Zahlen und Satzzeichen eine zufällige Auwahl und kombiniert daraus Passwörter. Deine Passwörter werden somit eine Form haben, die so etwa ausschaut, wie "flauschigerapfel14)" oder auch "stinkendeziege&".
+Heute werden wir beschäftigen wir uns mit dem Programmieren eines Spiels, das unter dem Namen Hang-Man oder auch Hängemännchen bekannt ist.
 
-[Passwort Generator](./Lesson/passwort_generator.md)
+[Weiter zur Lektion](./Lesson/konzepte.pdf)
