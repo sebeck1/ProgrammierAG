@@ -59,4 +59,4 @@ Folgende <span style="color:#FFCCCB">Regeln </span>  sind bei der Programmierung
 >Schreibe eine Funktion, die über den Parameter einen Namen entgegennimmt und diesen dann auf der Konsole ausdruckt.
 
 ## Nun sind wir bereit
-Nun können wir uns mit dem Programmierung von Hang-Man beschäftigen. [Hier gehts weiter](/hang_man.pdf)
+Nun können wir uns mit dem Programmierung von Hang-Man beschäftigen. [Hier gehts weiter](./hang_man.md)
